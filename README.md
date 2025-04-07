@@ -3,7 +3,7 @@
     <picture>
       <img src="https://builderbot.vercel.app/assets/thumbnail-vector.png" height="80">
     </picture>
-    <h2 align="center">Chatbot Personal (Dinabot)</h2>
+    <h2 align="start">Chatbot Personal (Dinabot)</h2>
   </a>
 </p>
 
@@ -65,8 +65,8 @@ This project uses BuilderBot, a free and open-source framework that facilitates 
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd builder-bot-aipath
+   git clone <https://github.com/deiviiss/dina-bot.git>
+   cd dina-bot
    ```
 
 2. Install dependencies:
